@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : 
-title                    : "Yuhui (Iris) CHEN"
+title                    : "Tianxu WANG"
 title_separator          : "-"
 name                     :
-description              : &description "University of Manchester"
-url                      : https://yhchen07.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yhchen07.github.io"
+description              : &description "Anhui University and HFIPS,CAS"
+url                      : "https://stanW98.github.io"
+baseurl                  : 
+repository               : "stanW98.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuhui CHEN"
+  name             : "Tianxu WANG"
   avatar           : "Profile.jpg"
-  bio              : "University of Manchester"
-  location         : "Manchester, UK"
+  bio              : "Anhui University and HFIPS,CAS"
+  location         : "Hefei, China"
   employer         :
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=9r1HqcgAAAAJ"
-  email            : "yuhui.chen-2@student.manchester.ac.uk"
+  pubmed           : 
+  googlescholar    : 
+  email            : "wtx98@issp.ac.cn"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -96,19 +96,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yhchen07"
+  github           : "stanW98"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
