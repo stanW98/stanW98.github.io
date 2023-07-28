@@ -18,7 +18,7 @@ redirect_from:
 * Future research interests: Thermal management materials are my research interest, including UHTC, high heat conductivity carbon materials and composite materials, etc. The research of ceramic powder is limited, thus I would like to pursue a further study and long for a deeper understanding of the application of ceramic powder, for instance, composite ceramic, coating, etc. Thermal coating materials and composite materials prepared by UHTC powder exhibit an extraordinary performance of thermal resistance, hardness and other physical and chemical properties. Therefore, UHTC is a promising material used in thermal protection in aerospace, which is a challenging direction I’d like to choose.
 
 # Recent News
-* 12 July 2023: Working as research assistant in Institute of Solid State Physics, Hefei Institutes of Physical Science, CAS,
+* 12 July 2023: Working as research assistant in Institute of Solid State Physics, Hefei Institutes of Physical Science, CAS.
 * 29 June 2023: I’m graduated from Anhui University and Hefei Institute of Physical Science, Chinese Academy of Sciences.
-* 20 April 2023. I attended the 2022 The 2nd Advanced Ceramics Summit Forum in Nanchang, Jiangxi, PRC
+* 20 April 2023: I attended the 2022 The 2nd Advanced Ceramics Summit Forum in Nanchang, Jiangxi, PRC.
 * 19 September 2022: My paper “Dispersant-assisted preparation of ultra-fine HfB2 powder,” has been accepted by *Applied Surface Science*.
