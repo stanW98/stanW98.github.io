@@ -19,6 +19,6 @@ In this project, I’m concentrated on **how to control the morphology and parti
 
 
 <p align="center">
-  <img src="https://stanw98.github.io//images/Image_Neuroscience.jpg?raw=true" alt="Photo" style="width: 450px;"/>
+  <img src="https://stanw98.github.io//images/701690536451_.pic.jpg?raw=true" alt="Photo" style="width: 450px;"/>
 </p>
 
